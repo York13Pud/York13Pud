@@ -1,10 +1,8 @@
- 
 ![Header](assets/images/header.png)
 
-<img src="assets/css/style.svg">
-
-# fkhdkhjf
-
+<span style="color: #8B67DB; display: block;">
+<h1>fkhdkhjf</h1>
+</span>
 ## Skill Set :muscle:
 
 <p>These are the technologies and tools that I have been using or learning:</p>
