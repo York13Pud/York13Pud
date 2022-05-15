@@ -1,7 +1,8 @@
 ![Header](assets/images/header.png)
 
+<span style="color:#61FFCA;">
 ## fkhdkhjf
-
+</span>
 ---
 # Skill Set :muscle:
 
@@ -35,7 +36,7 @@
 </p>
 
 <span style="color:#61FFCA;"> 
-***
+<hr style="color:#61FFCA;" height="10px" />
 </span>
 
 ## :fire: My GitHub Stats :fire: 
