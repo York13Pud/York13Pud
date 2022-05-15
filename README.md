@@ -1,46 +1,42 @@
 ![Header](assets/images/header.png)
 
-<span style="color: #8B67DB; display: block;">
-<h1>fkhdkhjf</h1>
-</span>
-## Skill Set :muscle:
+## :information_desk_person: About Me :information_desk_person:
 
-<p>These are the technologies and tools that I have been using or learning:</p>
+Hello and welcome. I'm Neil, a (newish) Python developer and technical writer in the U.K.  
 
-<p>
-<img src="assets/images/badges/aws.svg"        height="28"  alt="AWS"        title="AWS">
-<img src="assets/images/badges/bootstrap.svg"  height="28"  alt="Bootstrap"  title="Bootstrap">
-<img src="assets/images/badges/debian.svg"     height="28"  alt="Debian"     title="Debian">
-<img src="assets/images/badges/flask.svg"      height="28"  alt="Flask"      title="Flask">
-<img src="assets/images/badges/git.svg"        height="28"  alt="Git"        title="Git">
-<img src="assets/images/badges/github.svg"     height="28"  alt="GitHub"     title="GitHub">
-<img src="assets/images/badges/ios.svg"        height="28"  alt="iOS"        title="iOS">
-<img src="assets/images/badges/linux.svg"      height="28"  alt="Linux"      title="Linux">
-<img src="assets/images/badges/macos.svg"      height="28"  alt="macOS"      title="macOS">
-<img src="assets/images/badges/nginx.svg"      height="28"  alt="nginx"      title="nginx">
-<img src="assets/images/badges/postgresql.svg" height="28"  alt="PostgreSQL" title="PostgreSQL">
-<img src="assets/images/badges/python.svg"     height="28"  alt="Python 3"   title="Python 3">
-<img src="assets/images/badges/sqlite.svg"     height="28"  alt="Python 3"   title="Bootstrap">
-<img src="assets/images/badges/ubuntu.svg"     height="28"  alt="Ubuntu"     title="Ubuntu">
-<img src="assets/images/badges/html5.svg"      height="28"  alt="HTML 5"     title="HTML 5">
-<img src="assets/images/badges/css.svg"        height="28"  alt="CSS 3"      title="CSS 3">
+I am currently in the process of learning Python and a number of other technologies with
+an aim to be either a backend developer or a technical writer.
 
-<img src="assets/images/social/linkedin.svg"   height="28"  alt="Linkedin"   title="Linkedin">
-<img src="assets/images/social/twitter.svg"    height="28"  alt="Twitter"    title="Twitter">
-<img src="assets/images/social/youtube.svg"    height="28"  alt="YouTube"    title="YouTube">
+---
+## :iphone: Connect With Me :iphone:
 
-<img src="assets/images/social/devto.svg"      height="28"  alt="Dev.To"     title="Dev.To">
-<img src="assets/images/social/hashnode.svg"   height="28"  alt="HashNode"   title="HashNode">
+#### Social Media:  
 
-</p>
+[![LinkedIn!](/assets/images/social/linkedin.svg "LinkedIn")](https://www.linkedin.com/in/neil-allwood/)
+[![Twitter](/assets/images/social/twitter.svg "Twitter")](https://twitter.com/dev_neil_a)
+[![YouTube](/assets/images/social/youtube.svg "YouTube")](https://www.youtube.com/channel/UCiIcRgJwakk5Y01goFsiRcQ)
 
-<span style="color:#61FFCA;"> 
-<hr />
-</span>
+#### Blog Articles:
+
+![Dev.To](/assets/images/social/devto.svg "Dev.To")
+![Hashnode](/assets/images/social/Hashnode.svg "Hashnode")  
+
+---  
+
+## :computer: Skills and Tools :computer:
+
+These are the technologies and tools that I have been using or learning:  
+
+| Languages | Frameworks / Libraries | Databases | O/S's | Cloud | Servers and Tools |
+| --- | --- | --- | --- | --- | -- |
+| ![CSS](/assets/images/badges/css.svg "CSS") | ![Bootstrap](/assets/images/badges/bootstrap.svg "Bootstrap") | ![PostgreSQL](/assets/images/badges/postgresql.svg "PostgreSQL") | ![iOS](/assets/images/badges/ios.svg "iOS") | ![AWS](/assets/images/badges/aws.svg "AWS") | ![Git](/assets/images/badges/git.svg "Git") |
+| ![HTML](/assets/images/badges/html5.svg "HTML") | | ![SQLite](/assets/images/badges/sqlite.svg "SQLite") | ![Linux](/assets/images/badges/linux.svg "Linux") | | ![GitHub](/assets/images/badges/github.svg "GitHub") |
+| ![Python](/assets/images/badges/python.svg "Python") | | | ![macOS](/assets/images/badges/macos.svg "macOS") | | | ![Nginx](/assets/images/badges/nginx.svg "Nginx") | 
+| | | | | | ![VS Code](/assets/images/badges/vscode.svg "VS Code") |
+
+
+
+---
 
 ## :fire: My GitHub Stats :fire: 
 
-<p>
-
-
-</p>
