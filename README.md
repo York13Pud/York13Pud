@@ -1,10 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="assets/css/style.css">
+</head>
+<body>
+    
 ![Header](assets/images/header.png)
 
-<span style="color:#61FFCA;">
-## fkhdkhjf
-</span>
----
-# Skill Set :muscle:
+# fkhdkhjf
+
+## Skill Set :muscle:
 
 <p>These are the technologies and tools that I have been using or learning:</p>
 
@@ -36,7 +44,7 @@
 </p>
 
 <span style="color:#61FFCA;"> 
-<hr style="color:#61FFCA;" height="10px" />
+<hr />
 </span>
 
 ## :fire: My GitHub Stats :fire: 
@@ -45,3 +53,6 @@
 
 
 </p>
+
+</body>
+</html>
