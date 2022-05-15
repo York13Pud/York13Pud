@@ -5,6 +5,3 @@ Green:  #61FFCA
 Orange: #FFCA85
 
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=York13Pud&show_icons=true&theme=aura)](https://github.com/York13Pud)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=York13Pud&layout=compact&theme=aura)](https://github.com/York13Pud)
