@@ -1,45 +1,46 @@
-# Greetings and Salutations!
+![Header](assets/images/header.png)
 
 ## fkhdkhjf
 
-## Technology Stack and Tools
-
-## Skill Set :muscle:
+---
+# Skill Set :muscle:
 
 <p>These are the technologies and tools that I have been using or learning:</p>
 
 <p>
-<img src="assets/images/aws.svg"        alt="AWS" title="AWS" height="28">
-<img src="assets/images/bootstrap.svg"  alt="Bootstrap" title="Bootstrap" height="28">
-<img src="assets/images/debian.svg"     alt="Debian" title="Debian" height="28">
-<img src="assets/images/flask.svg"      alt="Flask" title="Flask" height="28">
-<img src="assets/images/git.svg"        alt="Git" title="Git" height="28">
-<img src="assets/images/github.svg"     alt="GitHub" title="GitHub" height="28">
-<img src="assets/images/ios.svg"        alt="iOS" title="iOS" height="28">
-<img src="assets/images/linux.svg"      alt="Linux" title="Linux" height="28">
-<img src="assets/images/macos.svg"      alt="macOS" title="macOS" height="28">
-<img src="assets/images/nginx.svg"      alt="nginx" title="nginx" height="28">
-<img src="assets/images/postgresql.svg" alt="PostgreSQL" title="PostgreSQL" height="28">
-<img src="assets/images/python.svg"     alt="Python 3" title="Python 3" height="28">
-<img src="assets/images/sqlite.svg"     alt="Python 3" title="Bootstrap" height="28">
-<img src="assets/images/ubuntu.svg"     alt="Ubuntu" title="Ubuntu" height="28">
-<img src="assets/images/html5.svg"      alt="HTML 5" title="HTML 5" height="28">
-<img src="assets/images/css.svg"        alt="CSS 3" title="CSS 3" height="28">
+<img src="assets/images/badges/aws.svg"        height="28"  alt="AWS"        title="AWS">
+<img src="assets/images/badges/bootstrap.svg"  height="28"  alt="Bootstrap"  title="Bootstrap">
+<img src="assets/images/badges/debian.svg"     height="28"  alt="Debian"     title="Debian">
+<img src="assets/images/badges/flask.svg"      height="28"  alt="Flask"      title="Flask">
+<img src="assets/images/badges/git.svg"        height="28"  alt="Git"        title="Git">
+<img src="assets/images/badges/github.svg"     height="28"  alt="GitHub"     title="GitHub">
+<img src="assets/images/badges/ios.svg"        height="28"  alt="iOS"        title="iOS">
+<img src="assets/images/badges/linux.svg"      height="28"  alt="Linux"      title="Linux">
+<img src="assets/images/badges/macos.svg"      height="28"  alt="macOS"      title="macOS">
+<img src="assets/images/badges/nginx.svg"      height="28"  alt="nginx"      title="nginx">
+<img src="assets/images/badges/postgresql.svg" height="28"  alt="PostgreSQL" title="PostgreSQL">
+<img src="assets/images/badges/python.svg"     height="28"  alt="Python 3"   title="Python 3">
+<img src="assets/images/badges/sqlite.svg"     height="28"  alt="Python 3"   title="Bootstrap">
+<img src="assets/images/badges/ubuntu.svg"     height="28"  alt="Ubuntu"     title="Ubuntu">
+<img src="assets/images/badges/html5.svg"      height="28"  alt="HTML 5"     title="HTML 5">
+<img src="assets/images/badges/css.svg"        height="28"  alt="CSS 3"      title="CSS 3">
 
-<img src="assets/images/linkedin.svg"   alt="Linkedin" title="Linkedin" height="28">
-<img src="assets/images/twitter.svg"   alt="Twitter" title="Twitter" height="28">
-<img src="assets/images/youtube.svg"   alt="YouTube" title="YouTube" height="28">
+<img src="assets/images/social/linkedin.svg"   height="28"  alt="Linkedin"   title="Linkedin">
+<img src="assets/images/social/twitter.svg"    height="28"  alt="Twitter"    title="Twitter">
+<img src="assets/images/social/youtube.svg"    height="28"  alt="YouTube"    title="YouTube">
 
-<img src="assets/images/devto.svg"   alt="Dev.To" title="Dev.To" height="28">
-<img src="assets/images/hashnode.svg"   alt="HashNode" title="HashNode" height="28">
+<img src="assets/images/social/devto.svg"      height="28"  alt="Dev.To"     title="Dev.To">
+<img src="assets/images/social/hashnode.svg"   height="28"  alt="HashNode"   title="HashNode">
 
 </p>
 
+<span style="color:#61FFCA;"> 
+***
+</span>
+
 ## :fire: My GitHub Stats :fire: 
 
-<p style="position:relative;">
+<p>
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=York13Pud&show_icons=true&theme=aura)](https://github.com/York13Pud)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=York13Pud&layout=compact&theme=aura)](https://github.com/York13Pud)
 </p>
