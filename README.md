@@ -44,8 +44,15 @@ These are the technologies and tools that I have been using or learning:
 
 <table>
     <tr>
-        <td valign="top"><img src="https://github-readme-stats.vercel.app/api?username=York13Pud&show_icons=true&theme=aura" />
+        <td valign="top">
+            <a href="https://github.com/York13Pud?tab=repositories">
+                <img src="https://github-readme-stats.vercel.app/api?username=York13Pud&show_icons=true&theme=aura" />
+            </a>
         </td>
-        <td valign="top"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=York13Pud&layout=compact&theme=aura" /></td>
+        <td valign="top">
+            <a href="https://github.com/York13Pud?tab=repositories">
+                <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=York13Pud&layout=compact&theme=aura" />
+            </a>
+        </td>
     </tr>
 </table>
