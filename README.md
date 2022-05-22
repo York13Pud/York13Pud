@@ -1,4 +1,4 @@
-![Header](assets/images/header.png)
+![Header](assets/images/headers/profile-header.png)
 
 ## :information_desk_person:  About Me  :information_desk_person:
 
