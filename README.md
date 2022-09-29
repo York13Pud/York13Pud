@@ -19,7 +19,6 @@ an aim to be either a backend developer or a technical writer.
 #### Blog Articles:
 
 [![Dev.To](/assets/images/social/devto.svg "Dev.To")](https://dev.to/dev_neil_a)
-[![Hashnode](/assets/images/social/hashnode.svg "Hashnode")](https://hashnode.com/@devneila)  
 
 ---  
 
