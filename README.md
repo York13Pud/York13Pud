@@ -1,8 +1,8 @@
-![Header](assets/images/headers/profile-header.png)
+# Hello and welcome. I'm Neil
 
 ## :information_desk_person:  About Me  :information_desk_person:
 
-Hello and welcome. I'm Neil, a (newish) Python developer and technical writer in the U.K.  
+I am a (newish) Python developer and technical writer in the U.K.  
 
 I am currently in the process of learning Python and a number of other technologies with
 an aim to be either a backend developer or a technical writer.
