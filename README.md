@@ -25,8 +25,6 @@ an aim to be either a backend developer or a technical writer.
 ## :wrench:  Skills and Tools  :wrench:
 
 These are the technologies and tools that I have been using or learning:  
-  
-
 
 | Languages | Frameworks | Databases | O/S's | Cloud | Tools |
 | :-: | :-: | :-: | :-: | :-: | :-: |
@@ -34,8 +32,6 @@ These are the technologies and tools that I have been using or learning:
 | ![HTML](/assets/images/badges/html5.svg "HTML") | ![Django](/assets/images/badges/django.svg "Django") | ![SQLite](/assets/images/badges/sqlite.svg "SQLite") | ![Linux](/assets/images/badges/linux.svg "Linux") | | ![GitHub](/assets/images/badges/github.svg "GitHub") |
 | ![Markdown](/assets/images/badges/markdown.svg "MarkDown") | ![FastAPI](/assets/images/badges/fastapi.svg "FastAPI") | | ![macOS](/assets/images/badges/macos.svg "macOS") | | ![Nginx](/assets/images/badges/nginx.svg "Nginx") | 
 | ![Python](/assets/images/badges/python.svg "Python") | ![Flask](/assets/images/badges/flask.svg "Flask") | | | | ![VS Code](/assets/images/badges/vscode.svg "VS Code") |
-
-
 
 ---
 
