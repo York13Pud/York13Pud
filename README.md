@@ -13,7 +13,6 @@ an aim to be either a backend developer or a technical writer.
 ### Social Media
 
 [![LinkedIn!](/assets/images/social/linkedin.svg "LinkedIn")](https://www.linkedin.com/in/neil-allwood/)
-[![Twitter](/assets/images/social/twitter.svg "Twitter")](https://twitter.com/dev_neil_a)
 [![YouTube](/assets/images/social/youtube.svg "YouTube")](https://www.youtube.com/channel/UCiIcRgJwakk5Y01goFsiRcQ)
 
 ### Blog Articles
