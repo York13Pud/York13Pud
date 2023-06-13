@@ -10,11 +10,6 @@ an aim to be either a backend developer or a technical writer.
 ---
 ## :iphone: Social Links  :iphone:
 
-### Social Media
-
-[![LinkedIn!](/assets/images/social/linkedin.svg "LinkedIn")](https://www.linkedin.com/in/neil-allwood/)
-[![YouTube](/assets/images/social/youtube.svg "YouTube")](https://www.youtube.com/channel/UCiIcRgJwakk5Y01goFsiRcQ)
-
 ### Blog Articles
 
 [![Dev.To](/assets/images/social/devto.svg "Dev.To")](https://dev.to/dev_neil_a)
