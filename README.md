@@ -2,10 +2,10 @@
 
 ## :information_desk_person:  About Me  :information_desk_person:
 
-I'm Neil. I am a (newish) Python developer and technical writer in the U.K.  
+I'm Neil. I am a developer and technical writer in the U.K.  
 
-I am currently in the process of learning Python and a number of other technologies with
-an aim to be either a backend developer or a technical writer.
+I am currently in the process of learning Swift & SwiftUI and a number of other technologies with
+an aim to be either an Apple ecosystem developer or a technical writer.
 
 ---
 ## :iphone: Social Links  :iphone:
@@ -26,6 +26,7 @@ These are the technologies and tools that I have been using or learning:
 | ![HTML](/assets/images/badges/html5.svg "HTML") | ![Django](/assets/images/badges/django.svg "Django") | ![SQLite](/assets/images/badges/sqlite.svg "SQLite") | ![Linux](/assets/images/badges/linux.svg "Linux") | | ![GitHub](/assets/images/badges/github.svg "GitHub") |
 | ![Markdown](/assets/images/badges/markdown.svg "MarkDown") | ![FastAPI](/assets/images/badges/fastapi.svg "FastAPI") | | ![macOS](/assets/images/badges/macos.svg "macOS") | | ![Nginx](/assets/images/badges/nginx.svg "Nginx") | 
 | ![Python](/assets/images/badges/python.svg "Python") | ![Flask](/assets/images/badges/flask.svg "Flask") | | | | ![VS Code](/assets/images/badges/vscode.svg "VS Code") |
+| ![Swift](/assets/images/badges/swift.svg "Swift") | ![SwiftUI](/assets/images/badges/swiftUI.svg "SwiftUI") | | | | ![Xcode](/assets/images/badges/xcode.svg "Xcode") |
 
 ---
 
