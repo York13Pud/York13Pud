@@ -1,7 +1,0 @@
-theme-colours:
-
-Purple: #8B67DB
-Green:  #61FFCA
-Orange: #FFCA85
-
-
