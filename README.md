@@ -8,13 +8,6 @@ I am currently in the process of learning Python & SQL and a number of other tec
 an aim to be either a data analyst / engineer or a technical writer.
 
 ---
-## :iphone: Social Links  :iphone:
-
-### Blog Articles
-
-[![Dev.To](/assets/images/social/devto.svg "Dev.To")](https://dev.to/dev_neil_a)
-
----  
 
 ## :wrench:  Skills and Tools  :wrench:
 
