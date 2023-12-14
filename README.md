@@ -1,6 +1,6 @@
 # Hello and Welcome
 
-## :information_desk_person:  About Me  :information_desk_person:
+## About Me
 
 I'm Neil. I am a developer and technical writer in the U.K.  
 
@@ -9,7 +9,7 @@ an aim to be either a data analyst / engineer or a technical writer.
 
 ---
 
-## :wrench:  Skills and Tools  :wrench:
+## Skills and Tools
 
 These are the technologies and tools that I have been using or learning:  
 
@@ -22,7 +22,7 @@ These are the technologies and tools that I have been using or learning:
 
 ---
 
-## :computer:  My GitHub Stats  :computer:  
+## My GitHub Stats
 
 <table>
     <tr>
