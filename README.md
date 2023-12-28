@@ -4,7 +4,7 @@
 
 I'm Neil. I am a developer and technical writer in the U.K.  
 
-I am currently in the process of learning Python, SQL and Swift. My goal is to be a developer that builds solutions for Apple platforms, including iSO, iPadOS, macOS, tvOS and watchOS.
+I am currently in the process of learning Python, SQL and Swift. My goal is to be a developer that builds solutions for Apple platforms, including iOS, iPadOS, macOS, tvOS and watchOS.
 
 I also develop backend API's with Python, Django and SQL databases such as PostgreSQL.
 
