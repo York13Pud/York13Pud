@@ -38,11 +38,6 @@ These are the technologies and tools that I have been using or learning:
     <tr>
         <td valign="top">
             <a href="https://github.com/York13Pud?tab=repositories">
-                <img alt="My Stats" src="https://github-readme-stats.vercel.app/api?username=York13Pud&show_icons=true&theme=aura" />
-            </a>
-        </td>
-        <td valign="top">
-            <a href="https://github.com/York13Pud?tab=repositories">
                 <img alt="Common Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=York13Pud&layout=compact&theme=aura" />
             </a>
         </td>
